@@ -1,0 +1,6 @@
+Gene: SCN9A
+M1231231V
+Gene: FGFR3
+M1V
+Gene: A2m
+M1v
